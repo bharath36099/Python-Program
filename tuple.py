@@ -1,0 +1,10 @@
+tup1=(0,1,2,3)
+tup2=('python','greek')
+tup3=(tup1,tup2)
+print(tup3)
+tup1=('greek')*3
+print(tup1)
+b=(1,2,3,4,5,6)
+print(b[::-1])
+print(b[2:])
+print(b[:3])
